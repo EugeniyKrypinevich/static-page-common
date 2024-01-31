@@ -1,0 +1,26 @@
+/* Main adjustable settings */
+body {
+    font-family: Arial, verdana, Trebuchet ms, Helvetica, sans-serif !important;
+    font-size: 12px !important;
+    font-weight: normal;
+    color: #000000;
+    background-color: #fff;
+}
+
+/* Login screen logo (put you logo to img folder) */
+.logoLoginImage {
+    background: no-repeat url(img/custom-logo.png) left top;
+    background-size: contain;
+}
+
+/* Login screen background (put you logo to img folder) */
+.login {
+    background: url(img/custom-background.jpg) center;
+    background-size: cover;
+}
+
+/* Main screen logo (put you logo to img folder) */
+.logoImage {
+    background: no-repeat url(img/custom-logo.png) left top;
+    background-size: contain;
+}
